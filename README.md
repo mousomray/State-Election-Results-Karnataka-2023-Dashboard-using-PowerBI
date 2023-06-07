@@ -17,10 +17,10 @@ election data, enabling users to gain insights into the electoral process and ou
 Data is collected from :-  
 * Constituency Wise Winner Data: https://www.hindustantimes.com/electi... 
 * Seats Won and Vote %: https://results.eci.gov.in/ResultAcGe...
-* INC Flag : https://github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/f4ddcead-9354-455e-bf9d-54d7a423884d
-* BJP Flag : https://github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/738869e8-33a5-46e1-aaf5-c85bfa34299c
-* JD(S) Flag : https://github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/81330cac-6770-4732-a99c-9adfc7d5d498
-* Others Flag : https://github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/cfc15af4-125b-4fd5-abf3-8154fc8d0d62
+* INC Flag : https://upload.wikimedia.org/wikipedia/commons/a/ad/INC_Logo.png
+* BJP Flag : https://th.bing.com/th/id/OIP.CXjh6futy73KaWUeWmUaJAHaGv?pid=ImgDet&rs=1 
+* JD(S) Flag : https://www.oneindia.com/img/2018/02/jds-1519713329.jpg  
+* Others Flag : https://th.bing.com/th/id/R.5107ef021d7b289a8c629052253ad5bf?rik=OrhUQc5xv4OrsQ&riu=http%3A%2F%2Fwww.pngmart.com%2Ffiles%2F7%2FIndia-Map-PNG-Photos.png&ehk=T4dUE85OuaR9fANLA2R24ieMbq39j7BG3HhhXr0TGSA%3D&risl=1&pid=ImgRaw&r=0 
 
 # Data Importing and Cleaning 
 After collecting the data and importing it into PowerBI performed various activities in Power Query Editor like,
