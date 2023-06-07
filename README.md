@@ -10,8 +10,8 @@ election data, enabling users to gain insights into the electoral process and ou
 * Data Cleaning
 * Data Processing
 * Data Analysis & Visualization
-* Dashboard Creation
-* Final Insights
+* Insights
+* Final Result
 
 # Data Collecting 
 Data is collected from :-  
@@ -25,3 +25,18 @@ removing duplicates, removing missing values, removing unimportant columns, addi
 # Data Processing 
 The election data divided into multiple datasets or files, such as constituency-wise results, voter turnout, candidate information, and more. 
 So created party_name column(using power query) in all datasets which is creating relationships between different tables, defining hierarchies, or creating calculated measures that can be used for advanced calculations or filtering in the dashboard. 
+
+# Data Analysis & Visualization 
+* Created Donut chart to analyze which party won how many seats and which party got more vote share. 
+* Created Table chart to see number of seats won by each party along with names and constituencies of the winners.
+* Inserted party flag image for filter. 
+* Inserted Karnataka Map.
+
+# Insights 
+* Indian National Congress(INC) won the most seats in State Election Karnataka(2023). Seats Won 135
+* Indian National Congress(INC) get the most vote share in State Election Karnataka(2023). Vote Share 43% 
+
+# Final Result 
+Indian National Congress(INC) won the State Election Karnataka(2023) vote. 
+
+
