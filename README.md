@@ -20,7 +20,7 @@ Data is collected from :-
 * INC Flag : https://github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/f4ddcead-9354-455e-bf9d-54d7a423884d
 * BJP Flag : https://github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/738869e8-33a5-46e1-aaf5-c85bfa34299c
 * JD(S) Flag : https://github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/81330cac-6770-4732-a99c-9adfc7d5d498
-* Others Flag : https:// github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/cfc15af4-125b-4fd5-abf3-8154fc8d0d62
+* Others Flag : https://github.com/mousomray/State-Election-Results-Karnataka-Dashboard-using-PowerBI/assets/125041134/cfc15af4-125b-4fd5-abf3-8154fc8d0d62
 
 # Data Importing and Cleaning 
 After collecting the data and importing it into PowerBI performed various activities in Power Query Editor like,
