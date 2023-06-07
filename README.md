@@ -1,4 +1,4 @@
-# State Election Results Karnataka Dashboard using PowerBI
+# State Election Results Karnataka(2023) 
 Objective :- This dashboard aim to display the results of state-level elections in Karnataka, including the number of seats won by each political party, 
 the overall voter turnout, and any other relevant data related to the election outcome.
 This PowerBI Dashboard is to provide an intuitive and informative platform for visualizing and analyzing 
